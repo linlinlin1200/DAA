@@ -28,6 +28,18 @@ DAA/
 └── .github/workflows/tests.yml
 ```
 
+## Week 6: binary trees (Java)
+
+All ten binary-tree problems are in [week6](week6/README.md). Each problem has a Java solution, a short report in Russian with a worked example and complexity analysis, and local tests.
+
+With JDK 17 or newer, run from the repository root:
+
+```bash
+java week6/RunTests.java
+```
+
+See the [Week 6 test results](week6/TEST_REPORT.md). A separate GitHub Actions workflow runs these tests on Java 17 and 21. For LeetCode, paste only the selected task's `Solution.java`; the platform provides `TreeNode`.
+
 ## Run locally
 
 Python 3.10 or newer is sufficient. There are no third-party dependencies. From the repository root:

@@ -2,6 +2,17 @@
 
 Coursework repository. Each week has its own folder; each problem has source code and an individual report.
 
+## Labs and practice
+
+- [Lab 1: binary search and first bad version](week2/)
+- [Lab 2: merge sorted lists and cycle detection](week3/)
+- [Lab 3: four linked-list problems](week4/)
+- [Bubble sort and selection sort](practice/sorting/)
+- [Five programming lab practice problems](practice/vpl/)
+- [Merge sort implementation practice](week5/sort_an_array/)
+
+The new folders above were prepared with AI assistance. Review the code and traces before using them for coursework.
+
 ## Week 5: sorting
 
 | Problem | Implementation | Report | Time | Auxiliary space |

@@ -71,3 +71,7 @@ GitHub Actions runs the same command on Python 3.10, 3.12, and 3.14.
 Local verification does not represent a submission to the LeetCode judge.
 
 For an explanation in Russian and questions to prepare for discussing the algorithms, see [Week 5 study notes](week5/STUDY_GUIDE_RU.md).
+
+## Week 8: BST lab (Java)
+
+[Three runnable projects and individual reports](week8/README.md): search in a BST, range sum, and sorted array to balanced BST. Each project includes its own node class and `main`. Run `java Main.java` inside a problem folder.

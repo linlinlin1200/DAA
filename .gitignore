@@ -7,3 +7,7 @@ venv/
 htmlcov/
 .DS_Store
 Thumbs.db
+
+# Java build output
+*.class
+**/build/
